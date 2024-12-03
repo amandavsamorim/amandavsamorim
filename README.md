@@ -1,3 +1,5 @@
+![background](background.png)
+
 ## Hello World 👋 I'm Amanda Amorim ʚĭɞ
 - 🔭 Graduanda em Sistemas de Informação na UNESA
 - 💼 Estagiária em Análise de Sistemas na Prefeitura da Cidade do Recife
