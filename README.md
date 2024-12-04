@@ -1,7 +1,7 @@
 ![background](image.png)
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1&pause=1000&vCenter=true&repeat=false&width=60&lines=I'am" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&vCenter=true&width=200&lines=Amanda+Amorim;Systems+Analyst;UI%2FUX+Design" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1&pause=1000&vCenter=true&repeat=false&width=60&lines=I'm" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&duration=1000&pause=1000&vCenter=true&width=200&lines=Amanda+Amorim;Systems+Analyst;UI%2FUX+Design" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
