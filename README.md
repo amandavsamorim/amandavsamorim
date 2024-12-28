@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-217ea6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-
 <div align="center"> 
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsamorim&layout=compact&langs_count=7&theme=react&hide_border=true"/> <img height="142em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavsamorim&theme=react&hide_border=true">
 </div>
