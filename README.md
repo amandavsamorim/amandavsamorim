@@ -14,7 +14,6 @@
 <div align="center"> 
   <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsamorim&layout=compact&langs_count=7&theme=react&hide_border=true"/> <img height="142em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavsamorim&theme=react&hide_border=true">
 </div>
-
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33C3FF&height=120&section=footer"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsamorim&color=33C3FF" alt="Profile views"/></p>
