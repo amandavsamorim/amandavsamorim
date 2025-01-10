@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.behance.net/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-Behance-217ea6?style=for-the-badge&logo=behance&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1SqJbGMW3deB-AtP5nsLEqv9EtKN_F0-8/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Currículo-217ea6?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://www.figma.com/@amandavsamorim"><img src="https://img.shields.io/badge/Figma_community-217ea6?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-217ea6?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.behance.net/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-Behance-1ebf59?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1SqJbGMW3deB-AtP5nsLEqv9EtKN_F0-8/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Currículo-1ebf59?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.figma.com/@amandavsamorim"><img src="https://img.shields.io/badge/Figma_community-1ebf59?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1ebf59?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center"> 
