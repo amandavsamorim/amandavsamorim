@@ -11,7 +11,7 @@ Sou estudante de **Sistemas de Informação** e atuo como **estagiária em Anál
 ### 🌎 Onde me encontrar?
 - [Behance](https://www.behance.net/amandavsamorim) – Meu portfólio de UI/UX
 - [LinkedIn](https://www.linkedin.com/in/amandavsamorim/) – Meu perfil profissional
-- [Site Pessoal](#) – Para saber mais sobre mim
+- [Site Pessoal](https://amandavsamorim.github.io/Portfolio-Amanda/) – Para saber mais sobre mim
 
 Vamos trocar uma ideia? Me chama! 😊
 
