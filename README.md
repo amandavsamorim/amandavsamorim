@@ -4,9 +4,10 @@
 Sou estudante de **Sistemas de Informação** e atuo como **estagiária em Análise de Sistemas**. Tenho interesse em **UI/UX Design**, desenvolvimento de software e gestão de projetos. Atualmente, estou aprimorando meus conhecimentos em **Python** e criando projetos para fortalecer meu portfólio como **Analista de Sistemas**.
 
 ### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, C
-- **Banco de Dados:** MySQL
-- **Ferramentas:** Git, Figma, Linux Mint, Power Bi, PyCharm
+- **Linguagens:** Python
+- **Banco de Dados:** PostgreSQL
+- **Sistema Operacional:** Windows, Linux Mint 
+- **Ferramentas:** Git, Figma, Power Bi, PyCharm, VSCode
 
 ### 🌎 Onde me encontrar?
 - [Behance](https://www.behance.net/amandavsamorim) – Meu portfólio de UI/UX
