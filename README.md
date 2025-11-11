@@ -1,5 +1,5 @@
 <h1>I'm Amanda! 👾</h1>
-<img src="https://komarev.com/ghpvc/?username=amandavsamorim&color=418cb7" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=amandavsamorim&color=9F52FD" alt="Profile views"/>
 
 Sou estudante de **Sistemas de Informação** e atuo como **estagiária em Análise de Sistemas**. Tenho interesse em **UI/UX Design**, desenvolvimento de software e gestão de projetos. Atualmente, estou aprimorando meus conhecimentos em **Python** e criando projetos para fortalecer meu portfólio como **Analista de Sistemas**.
 
