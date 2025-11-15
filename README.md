@@ -17,6 +17,5 @@ Crio interfaces modernas e funcionais, e desenvolvo projetos usando <b>Python</b
 ## 🌎 Onde me encontrar?
 - Behance: https://www.behance.net/amandavsamorim  
 - LinkedIn: https://www.linkedin.com/in/amandavsamorim/  
-- Site pessoal: https://amandavsamorim.github.io/Portfolio-Amanda/
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9F52FD&section=footer&reversal=true"/>
