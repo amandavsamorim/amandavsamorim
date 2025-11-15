@@ -8,7 +8,7 @@ Desenvolvo interfaces modernas e bem estruturadas, unindo estética, funcionalid
 
 ## 🛠️ Skills
 **Design:** Figma, Prototipação, Design System  
-**Web:** HTML • CSS • JavaScript • React (iniciante)  
+**Web:** HTML • CSS • JavaScript • Wordpress 
 **Dev:** Python, PostgreSQL  
 **Outros:** Git/GitHub, Power BI
 
