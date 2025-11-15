@@ -1,19 +1,22 @@
 <h1>I'm Amanda! 👾</h1>
 <img src="https://komarev.com/ghpvc/?username=amandavsamorim&color=9F52FD" alt="Profile views"/>
 
-Sou estudante de **Sistemas de Informação** e atuo como **estagiária em Análise de Sistemas**. Tenho interesse em **UI/UX Design**, desenvolvimento de software e gestão de projetos. Atualmente, estou aprimorando meus conhecimentos em **Python** e criando projetos para fortalecer meu portfólio como **Analista de Sistemas**.
+Sou <b>UI/UX & Web Designer</b> e também estudo <b>Análise de Sistemas</b>.  
+Crio interfaces modernas e funcionais, e desenvolvo projetos usando <b>Python</b>, <b>JavaScript</b> e <b>PostgreSQL</b>.
 
-### 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, JavaScript
-- **Banco de Dados:** PostgreSQL
-- **Sistema Operacional:** Windows, Linux Mint 
-- **Ferramentas:** Git, Figma, Power Bi, PyCharm, VSCode, React
+---
 
-### 🌎 Onde me encontrar?
-- [Behance](https://www.behance.net/amandavsamorim) – Meu portfólio de UI/UX
-- [LinkedIn](https://www.linkedin.com/in/amandavsamorim/) – Meu perfil profissional
-- [Site Pessoal](https://amandavsamorim.github.io/Portfolio-Amanda/) – Para saber mais sobre mim
+## 🛠️ Skills
+**Design:** Figma, Prototipação, Design System  
+**Web:** HTML • CSS • JavaScript • React (iniciante)  
+**Dev:** Python, PostgreSQL  
+**Outros:** Git/GitHub, Power BI
 
-Vamos trocar uma ideia? Me chama! 😊
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=9F52FD&section=footer&reversal=true&textBg=false&descAlign=50&descAlignY=66" width="100%" height="150">
+## 🌎 Onde me encontrar?
+- Behance: https://www.behance.net/amandavsamorim  
+- LinkedIn: https://www.linkedin.com/in/amandavsamorim/  
+- Site pessoal: https://amandavsamorim.github.io/Portfolio-Amanda/
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9F52FD&section=footer&reversal=true"/>
