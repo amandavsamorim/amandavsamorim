@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=amandavsamorim&color=9F52FD" alt="Profile views"/>
 
 Sou <b>UI/UX & Web Designer</b> e também estudo <b>Análise de Sistemas</b>.  
-Crio interfaces modernas e funcionais, e desenvolvo projetos usando <b>Python</b>, <b>JavaScript</b> e <b>PostgreSQL</b>.
+Desenvolvo interfaces modernas e bem estruturadas, unindo estética, funcionalidade e foco na experiência do usuário.
 
 ---
 
