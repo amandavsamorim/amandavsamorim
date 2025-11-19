@@ -6,6 +6,9 @@ Desenvolvo interfaces modernas e bem estruturadas, unindo estética, funcionalid
 
 ---
 
+
+![Dino animado](dino.gif)
+
 ## 🛠️ Skills
 **Design:** Figma, Prototipação, Design System  
 **Web:** HTML • CSS • JavaScript • Wordpress   
@@ -19,3 +22,4 @@ Desenvolvo interfaces modernas e bem estruturadas, unindo estética, funcionalid
 - LinkedIn: https://www.linkedin.com/in/amandavsamorim/  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9F52FD&section=footer&reversal=true"/>
+
